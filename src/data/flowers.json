@@ -1,0 +1,94 @@
+{
+  "flowers": [
+    {
+      "id": 1,
+      "name": "Rosa Colombiana",
+      "price": 15.90,
+      "image_url": "https://images.unsplash.com/photo-1562690868-60bbe7293e94?w=200&q=80"
+    },
+    {
+      "id": 2,
+      "name": "Astromélia",
+      "price": 8.50,
+      "image_url": "https://images.unsplash.com/photo-1597848212624-a19eb35e2651?w=200&q=80"
+    },
+    {
+      "id": 3,
+      "name": "Lírio",
+      "price": 22.90,
+      "image_url": "https://images.unsplash.com/photo-1468327158734-dbc31fb7404a?w=200&q=80"
+    },
+    {
+      "id": 4,
+      "name": "Orquídea Cymbidium",
+      "price": 35.00,
+      "image_url": "https://images.unsplash.com/photo-1566938064504-a379175168b2?w=200&q=80"
+    },
+    {
+      "id": 5,
+      "name": "Crisântemo",
+      "price": 12.50,
+      "image_url": "https://images.unsplash.com/photo-1595579471081-7c20e67bf99c?w=200&q=80"
+    },
+    {
+      "id": 6,
+      "name": "Gérbera",
+      "price": 9.90,
+      "image_url": "https://images.unsplash.com/photo-1598458255717-76e71f019385?w=200&q=80"
+    },
+    {
+      "id": 7,
+      "name": "Copo de Leite",
+      "price": 18.90,
+      "image_url": "https://images.unsplash.com/photo-1612966809104-56a8e3b9af04?w=200&q=80"
+    },
+    {
+      "id": 8,
+      "name": "Lisianto",
+      "price": 14.50,
+      "image_url": "https://images.unsplash.com/photo-1525310072745-f49212b5ac6d?w=200&q=80"
+    },
+    {
+      "id": 9,
+      "name": "Alstroemeria",
+      "price": 7.90,
+      "image_url": "https://images.unsplash.com/photo-1597848212624-a19eb35e2651?w=200&q=80"
+    },
+    {
+      "id": 10,
+      "name": "Margarida",
+      "price": 6.50,
+      "image_url": "https://images.unsplash.com/photo-1508784411316-02b8cd4d3a3a?w=200&q=80"
+    },
+    {
+      "id": 11,
+      "name": "Cravina",
+      "price": 5.90,
+      "image_url": "https://images.unsplash.com/photo-1589994160839-163cd867cfe8?w=200&q=80"
+    },
+    {
+      "id": 12,
+      "name": "Boca de Leão",
+      "price": 8.90,
+      "image_url": "https://images.unsplash.com/photo-1599593752325-ffa41031056e?w=200&q=80"
+    },
+    {
+      "id": 13,
+      "name": "Estrelícia",
+      "price": 25.00,
+      "image_url": "https://images.unsplash.com/photo-1615213253844-9a9f0ad2892b?w=200&q=80"
+    },
+    {
+      "id": 14,
+      "name": "Helicônia",
+      "price": 28.90,
+      "image_url": "https://images.unsplash.com/photo-1582794543139-8ac9cb0f7b11?w=200&q=80"
+    },
+    {
+      "id": 15,
+      "name": "Girassol",
+      "price": 16.90,
+      "image_url": "https://images.unsplash.com/photo-1597848212624-a19eb35e2651?w=200&q=80"
+    }
+  ]
+} 
